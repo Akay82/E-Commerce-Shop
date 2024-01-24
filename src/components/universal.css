@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+    .search {
+        width: 5%;
+    }
+}
+
+.search {
+    display: inline-block;
+}
+
+body {
+    background-color: aqua;
+}
